@@ -25,3 +25,9 @@ other = "Powered by"
 
 [see_also]
 other = "See also in"
+
+[internal_error]
+other = "Internal Error"
+
+[internal_error_encountered]
+other = "An internal error occured. Please try again later."

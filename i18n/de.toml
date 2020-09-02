@@ -22,3 +22,9 @@ other = "Du kannst hier zurück zur <a href=\"{{ . }}\">Startseite</a>."
 
 [powered_by]
 other = "Gestaltet mit"
+
+[internal_error]
+other = "Interner Fehler"
+
+[internal_error_encountered]
+other = "Es ist ein interner Fehler aufgetreten. Bitte versuchen Sie es später erneut."
